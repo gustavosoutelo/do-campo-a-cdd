@@ -4,11 +4,11 @@
 }
 
 .cabecalho--menu-hamburguer{
-background-image: url(../img/Vector.png);
+background-image: url("../img/Vector.png");
  height: 25px;
  width: 18px;
  display: inline-block;
  background-repeat: no-repeat;
  background-position: center;
- background-image: url(../img/Vector.png);
+
 }
