@@ -14,3 +14,7 @@ background-image: url("../img/Vector.png");
  background-position: center;
 
 }
+
+.cabecalho--titulo{
+    margin-left: 55px;
+}
