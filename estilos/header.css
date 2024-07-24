@@ -16,5 +16,5 @@ background-image: url("../img/Vector.png");
 }
 
 .cabecalho--titulo{
-    margin-left: 60px;
+    margin: 0 auto;
 }
