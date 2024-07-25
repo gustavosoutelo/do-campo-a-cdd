@@ -15,4 +15,5 @@ background-color: var(--cor-de-fundo);
 .conteudo1{
     color: #FFFFFF;
     font-size: 14px;
+    display:flex;
 }
