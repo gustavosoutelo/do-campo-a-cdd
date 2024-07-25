@@ -12,3 +12,7 @@ body{
 background-color: var(--cor-de-fundo);
 }
 
+.conteudo1{
+    color: #FFFFFF;
+    font-size: 20px;
+}
