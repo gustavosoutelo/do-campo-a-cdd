@@ -24,6 +24,7 @@ footer{
     width: 100%;
     height: 100px;
     background-image: url("./img/rodape.jpeg");
+    background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
 }
