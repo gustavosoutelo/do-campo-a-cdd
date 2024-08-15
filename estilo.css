@@ -31,6 +31,8 @@ footer{
     bottom: -100px;
 }
 
-{
-    .tamanho-img1
+
+.tamanho-img1{
+    width: 100px;
+    height: 100px;
 }
