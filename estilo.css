@@ -36,3 +36,12 @@ footer{
     width: 100px;
     height: 100px;
 }
+
+
+
+@media screen and(min-width:  1024px;) {
+    .container--titulo{
+        display: block;
+    }
+    
+}
