@@ -58,4 +58,15 @@ footer{
     .menu{
         display:none;
     }
+    .tamanho-img1{
+    width: 200px;
+    height: 200px;
+
+    .tamanho-img2
+    width: 200px;
+    height: 200px;
+
+    .tamanho-img3
+    width: 200px;
+    height: 200px;
 }
