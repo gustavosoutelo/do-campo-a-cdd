@@ -21,6 +21,6 @@ background-image: url("../img/Vector.png");
 
 @media (min-width:1024px){
     .cabecalho--titulo{
-        font-size: 100px;
+        font-size: 70px;
     }
 }
