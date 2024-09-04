@@ -48,7 +48,7 @@ footer{
 }
 
 
-@media screen and(min-width:  1024px;) {
+@media screen and(min-width:  1024px) {
     .container--titulo{
         display: block;
     }
@@ -61,12 +61,14 @@ footer{
     .tamanho-img1{
     width: 200px;
     height: 200px;
-
-    .tamanho-img2
+    }
+    .tamanho-img2{
     width: 200px;
     height: 200px;
-
-    .tamanho-img3
+    }
+    .tamanho-img3{
     width: 200px;
     height: 200px;
 }
+
+    }
