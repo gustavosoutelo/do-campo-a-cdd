@@ -18,3 +18,9 @@ background-image: url("../img/Vector.png");
 .cabecalho--titulo{
     margin: 0 auto;
 }
+
+@media (min-width:1024px){
+    .cabecalho--titulo{
+        font-size: 100px;
+    }
+}
